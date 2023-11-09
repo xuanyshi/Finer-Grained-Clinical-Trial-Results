@@ -1,4 +1,4 @@
-# clinical trials finer grained representation
+# Constructing a Finer-Grained Representation of Clinical Trial Results from ClinicalTrials.gov
 
 This work was posted on Medrxiv : https://www.medrxiv.org/content/10.1101/2023.10.25.23297572v1
 
