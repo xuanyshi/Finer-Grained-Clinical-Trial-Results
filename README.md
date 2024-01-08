@@ -2,6 +2,8 @@
 
 This work has been published on Scientific Data : https://www.nature.com/articles/s41597-023-02869-7
 
+Full dataset was deposited to Figshare: Shi, X., & Du, J. Constructing a finer-grained representation of clinical trial results from ClinicalTrials.gov, Figshare, https://doi.org/10.6084/m9.figshare.c.6860254.v1
+
 ## biobert_evaluation
 
 ```biobert_validation.xlsx```: mannually annotated data and validation of BioBert method used to separating intervention arms vs. comparator arms.
