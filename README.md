@@ -1,5 +1,21 @@
 # Finer-Grained Representation of CT Results
 
-This work was posted on Medrxiv : https://www.medrxiv.org/content/10.1101/2023.10.25.23297572v1
+This work has been published on Scientific Data : https://www.nature.com/articles/s41597-023-02869-7
+
+## biobert_evaluation
+
+## notebooks
+
+```ctgov_fulldata_for_github.ipynb```: notebook for extracting results from raw XML files from ClinicalTrials.gov
+
+```arm_level_rct_for_github.ipynb```: notebook for building arm level relatioonships of efficacy and safety(serious adverse events) results
+
+We are working on provide more concise codes for reproduction and clarity.
+
+## imgs
+
+```figure_1.png```: The overall workflow of research.
+
+We are open to collaborations.
 
 ![Figure 1](https://github.com/xuanyshi/clinical-trials-finer-grained-representation/blob/main/imgs/figure_1.png)
