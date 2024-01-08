@@ -4,6 +4,8 @@ This work has been published on Scientific Data : https://www.nature.com/article
 
 ## biobert_evaluation
 
+```biobert_validation.xlsx```: mannually annotated data and validation of BioBert method used to separating intervention arms vs. comparator arms.
+
 ## notebooks
 
 ```ctgov_fulldata_for_github.ipynb```: notebook for extracting results from raw XML files from ClinicalTrials.gov
