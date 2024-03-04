@@ -6,7 +6,7 @@ Full dataset was deposited to Figshare: Shi, X., & Du, J. Constructing a finer-g
 
 ## Updates
 
-```24-02-23```: We are processing and updating data downloaded from ClinicalTrials.go on Feb. 23rd 2024. 
+```24-02-23```: We are processing and updating data downloaded from ClinicalTrials.gov on Feb. 23rd 2024. 
 
 
 ## biobert_evaluation
